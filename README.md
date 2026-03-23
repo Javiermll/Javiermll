@@ -61,7 +61,7 @@ Mostrar imagen
     </tr>
     <tr>
       <td><b>🌐 Around The U.S. Full-Stack</b></td>
-      <td>Red social full-stack con autenticación JWT completa</td>
+      <td>Red social full-stack con autenticación JWT completa. Nota: el backend está en el plan gratuito de Render — la primera petición tras un período de inactividad puede tardar ~30 segundos mientras el servidor arranca.</td>
       <td>React 19 · Node.js · MongoDB · JWT</td>
       <td>
         <a href="https://web-project-api-full-jade.vercel.app/">Demo</a> ·

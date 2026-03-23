@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:2563EB&height=200&section=header&text=Hi,%20I'm%20Javier%20Muñoz%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20Jr.&descAlignY=58&descSize=20&descColor=dbeafe" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:2563EB&height=200&section=header&text=Hi,%20I'm%20Javier%20Muñoz%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20&descAlignY=58&descSize=20&descColor=dbeafe" />
 </p>
 <!-- OPEN TO WORK -->
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 👨‍💻 Sobre mí
-Soy desarrollador Full-Stack Jr. con background en Ingeniería Civil Industrial.
+Soy desarrollador Full-Stack con background en Ingeniería Civil Industrial.
 Construyo aplicaciones web con React y Node.js, con un primer proyecto en producción para un cliente real.
 Creo en aprender haciendo y en iterar constantemente.
 

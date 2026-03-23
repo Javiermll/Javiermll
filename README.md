@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Remote%20LATAM%20%7C%20Híbrido%20Concepción-2563EB?style=for-the-badge&logoColor=white" />
 </p>
 
-👨‍💻 Sobre mí </ br>
+👨‍💻 Sobre mí </br>
 Soy desarrollador Full-Stack con background en Ingeniería Civil Industrial.
 Construyo aplicaciones web con React y Node.js, con un primer proyecto en producción para un cliente real.
 Creo en aprender haciendo y en iterar constantemente.
@@ -15,7 +15,7 @@ Creo en aprender haciendo y en iterar constantemente.
 "Uno no diseña para uno, uno diseña para el usuario."
 
 
-🛠️ Stack Tecnológico </ br>
+🛠️ Stack Tecnológico </br>
 Frontend
 Mostrar imagen
 Mostrar imagen
@@ -38,7 +38,7 @@ En formación
 Mostrar imagen
 Mostrar imagen
 
-🚀 Proyectos Destacados </ br>
+🚀 Proyectos Destacados </br>
 <table>
   <thead>
     <tr>

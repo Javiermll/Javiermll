@@ -1,141 +1,185 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:2563EB&height=200&section=header&text=Hi,%20I'm%20Javier%20Muñoz%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20&descAlignY=58&descSize=20&descColor=dbeafe" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=160&section=header&animation=fadeIn" />
 </p>
 
-<!-- OPEN TO WORK -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Remote%20LATAM%20%7C%20Híbrido%20Concepción-2563EB?style=for-the-badge&logoColor=white" />
+  <img src="assets/open-to-work.svg" alt="●" /> &nbsp;<b>Open to Work</b>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=34&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=420&height=45&repeat=false&lines=Javier%20Mu%C3%B1oz%20Llanos#gh-dark-mode-only" alt="Javier Muñoz Llanos" /><img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=34&duration=3000&pause=100000&color=0F172A&center=true&vCenter=true&width=420&height=45&repeat=false&lines=Javier%20Mu%C3%B1oz%20Llanos#gh-light-mode-only" alt="Javier Muñoz Llanos" /><br />
+  <img width="140" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=4" /><br />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=16&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=26&repeat=false&lines=Full-Stack%20Developer%20%E2%97%86%20Front-end%20%E2%97%86%20Back-end%20%E2%97%86%20IA%20Engineer#gh-dark-mode-only" alt="Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer" /><img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=16&duration=3000&pause=100000&color=334155&center=true&vCenter=true&width=600&height=26&repeat=false&lines=Full-Stack%20Developer%20%E2%97%86%20Front-end%20%E2%97%86%20Back-end%20%E2%97%86%20IA%20Engineer#gh-light-mode-only" alt="Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer" />
+</p>
 
-<h2 align="center">👨‍💻 Sobre mí</h2>
+<p align="center"><img src="assets/remote-badge.svg" height="40" alt="Remote LATAM · Remote &amp; Hybrid Chile" /></p>
 
-Soy desarrollador Full-Stack con background en Ingeniería Civil Industrial.
-Construyo aplicaciones web con **React** y **Node.js**, con un primer proyecto en producción para un cliente real.
-Creo en aprender haciendo y en iterar constantemente.
+<h3 align="center">Sobre mí</h3>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
-> *"Uno no diseña para uno, uno diseña para el usuario."*
+Full-Stack Developer con casi 2 años de experiencia liderando proyectos de principio a fin **en producción**, con React, Node.js y bases de datos SQL/NoSQL (PostgreSQL, MongoDB). Tomo decisiones de arquitectura de forma autónoma y aprendo rápido entre stacks distintos cuando el proyecto lo exige.
 
----
+He trabajado en sectores asociados a la construcción, consultoría y cultura. He tenido buenas experiencias trabajando con stakeholders técnicos como no técnicos, traduciendo ambigüedad de negocio en decisiones técnicas concretas. Me interesa especialmente el cruce entre **desarrollo web e inteligencia artificial**.
 
-<h2 align="center">🛠️ Stack Tecnológico</h2>
+<p align="center"><img width="140" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=4" /></p>
 
-**Frontend**
+<p align="center">
+  🏆 <b>1</b> hackathon ganado &nbsp;·&nbsp; 🚀 <b>4</b> proyectos destacados en producción &nbsp;·&nbsp; 💼 <b>~2</b> años liderando desarrollo full-stack
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<h3 align="center">Proyectos Destacados</h3>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
-**Backend**
+<table border="1" cellpadding="16" cellspacing="0"><tr><td align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center"><sub>01</sub></p>
+<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3AD.svg" width="24" style="vertical-align:middle" /> Colombia Canta y Encanta</h3>
+<p align="center"><img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /></p>
+<p align="center"><img src="assets/logos/colombia-canta.jpg" height="48" alt="Colombia Canta y Encanta" /></p>
+<p align="center">Plataforma cultural con inscripciones, tienda y gestión de eventos para una asociación colombiana real, con pagos y autenticación multifactor.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,supabase" height="32" title="React · Node.js · Supabase (PostgreSQL)" />
+  <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white" height="32" />
+</p>
+<p align="center"><b>Impacto:</b> reemplazó un proceso 100% manual por WhatsApp por una operación digital autónoma con pagos reales.</p>
+<p align="center">
+  <a href="https://www.colombiacanta.org/"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/DevColombiaEncanta/colombia-canta-encanta"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-**Base de datos**
+</td></tr></table>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<table border="1" cellpadding="16" cellspacing="0"><tr><td align="center">
 
-**Herramientas**
+<p align="center"><sub>02</sub></p>
+<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3DD.svg" width="24" style="vertical-align:middle" /> Coco B Isla</h3>
+<p align="center"><img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /></p>
+<p align="center"><img src="assets/logos/coco-b.png" height="48" alt="Coco B Isla" /></p>
+<p align="center">Plataforma de reservas para resort/villa con CMS headless y chatbot con IA, construida en un hackathon competitivo. <b>Equipo ganador.</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,wordpress,docker" height="32" title="Next.js · TypeScript · WordPress headless · Docker" />
+</p>
+<p align="center"><b>Impacto:</b> sistema de reservas en tiempo real y chatbot con IA en producción, dentro del plazo del hackathon.</p>
+<p align="center">
+  <a href="https://coco-b-platform.vercel.app"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/coco-b-team/coco-b-platform"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</td></tr></table>
 
-**En formación**
+<table border="1" cellpadding="16" cellspacing="0"><tr><td align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+<p align="center"><sub>03</sub></p>
+<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3D7.svg" width="24" style="vertical-align:middle" /> Constructora Hidrorural</h3>
+<p align="center"><img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /></p>
+<p align="center"><img src="assets/logos/hidrorural.png" height="48" alt="Constructora Hidrorural" /></p>
+<p align="center">Plataforma web institucional para un cliente real de construcción, con endpoint de cotización y múltiples capas de seguridad en producción.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" height="32" title="React · Node.js · Express" />
+</p>
+<p align="center"><b>Impacto:</b> mejoró la visibilidad digital de la empresa en ~40%.</p>
+<p align="center">
+  <a href="https://contructora-hidrorural-frontend.vercel.app"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/Javiermll/contructora-hidrorural-frontend"><img src="https://img.shields.io/badge/Frontend-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Javiermll/contructora-hidrorural-backend"><img src="https://img.shields.io/badge/Backend-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
----
+</td></tr></table>
 
-<h2 align="center">🚀 Proyectos Destacados</h2>
+<table border="1" cellpadding="16" cellspacing="0"><tr><td align="center">
 
-<table>
-  <thead>
-    <tr>
-      <th>Proyecto</th>
-      <th>Descripción</th>
-      <th>Stack</th>
-      <th>Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🏗️ Constructora Hidrorural</b></td>
-      <td>Plataforma web institucional para cliente real en producción</td>
-      <td>React 19 · Node.js · Express · Nodemailer</td>
-      <td>
-        <a href="https://javiermll.github.io/contructora-hidrorural-frontend/">Demo</a> ·
-        <a href="https://github.com/Javiermll/contructora-hidrorural-frontend">Frontend</a> ·
-        <a href="https://github.com/Javiermll/contructora-hidrorural-backend">Backend</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>🌐 Around The U.S. Full-Stack</b></td>
-      <td>Red social full-stack con autenticación JWT completa. Nota: el backend está en el plan gratuito de Render — la primera petición tras un período de inactividad puede tardar ~30 segundos mientras el servidor arranca.</td>
-      <td>React 19 · Node.js · MongoDB · JWT</td>
-      <td>
-        <a href="https://web-project-api-full-jade.vercel.app/">Demo</a> ·
-        <a href="https://github.com/Javiermll/web_project_api_full">Repo</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>⚛️ Around The U.S. React</b></td>
-      <td>Migración de JS vanilla a React con Context API</td>
-      <td>React 19 · Vite · Context API</td>
-      <td>
-        <a href="https://javiermll.github.io/web_project_around_react/">Demo</a> ·
-        <a href="https://github.com/Javiermll/web_project_around_react">Repo</a>
-      </td>
-    </tr>
-  </tbody>
+<p align="center"><sub>04</sub></p>
+<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F310.svg" width="24" style="vertical-align:middle" /> Around The U.S.</h3>
+<p align="center"><img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /></p>
+<p align="center">Red social full-stack con registro, login y sesión persistente vía JWT, con una migración adicional a React y Context API.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,mongodb" height="32" title="React · MongoDB" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="32" />
+</p>
+<p align="center"><b>Impacto:</b> 10 endpoints REST funcionales, desplegada en producción.</p>
+<p align="center">
+  <a href="https://web-project-api-full-jade.vercel.app/"><img src="https://img.shields.io/badge/Demo_Full--Stack-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/Javiermll/web_project_api_full"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Javiermll/web_project_around_react"><img src="https://img.shields.io/badge/Repo_React-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td></tr></table>
+
+<h3 align="center">Stack Tecnológico</h3>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,mongodb" title="Core: React · Next.js · TypeScript · Node.js · PostgreSQL · MongoDB" />
+</p>
+
+<details align="center">
+<summary><b>Ver stack completo</b></summary>
+
+<div align="center">
+<br />
+
+<h4 align="center">Frontend</h4>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind" title="HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Vite · Bootstrap · Tailwind CSS" />
+
+<h4 align="center">Backend</h4>
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,django,wordpress" title="Node.js · Express · Python · Django · WordPress" />
+
+<h4 align="center">Bases de Datos</h4>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" title="PostgreSQL · Supabase · MongoDB" />
+<img src="assets/logos/mssql-chip.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
+
+<h4 align="center">IA y Automatización</h4>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+<img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/RAG_%7C_Agentes-8B5CF6?style=flat-square&logoColor=white" alt="RAG" />
+
+<h4 align="center">Herramientas y Despliegue</h4>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,gcp,jest,postman" title="Git · GitHub · Docker · Figma · Vercel · Google Cloud · Jest · Postman" />
+
+</div>
+</details>
+
+<h3 align="center">Certificaciones</h3>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
+
+<p align="center"><b>Anthropic</b> — Claude with the Anthropic API</p>
+<p align="center">RAG · Tool Use · Streaming · Agentes · MCP · Workflows</p>
+
+<p align="center"><b>Excel Avanzado · Power BI · SQL Server</b></p>
+<p align="center">Tablas dinámicas · DAX · Funciones avanzadas</p>
+
+<h3 align="center">Contacto</h3>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/javiermunoz-fullstackdeveloper/"><img src="assets/chips/linkedin-chip.svg" width="56" height="56" alt="LinkedIn" /></a><br />
+      <b>LinkedIn</b>
+    </td>
+    <td align="center">
+      <a href="https://javiermll.github.io/Portafolio/"><img src="assets/chips/portfolio-chip.svg" width="56" height="56" alt="Portafolio" /></a><br />
+      <b>Portafolio</b>
+    </td>
+    <td align="center">
+      <a href="mailto:Javier.munozll96@gmail.com"><img src="assets/chips/gmail-chip.svg" width="56" height="56" alt="Email" /></a><br />
+      <b>Email</b>
+    </td>
+  </tr>
 </table>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
+<!-- CTA -->
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Javiermll&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1e293b" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiermll&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=1e293b" />
+  <img src="https://img.shields.io/badge/¿Construimos_algo_juntos%3F-0EA5E9?style=for-the-badge&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Javiermll&theme=default&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=1e293b&dates=64748b" />
-</p>
-
----
-
-<h2 align="center">📬 Contacto</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/jamunozll/">
-    <img src="https://img.shields.io/badge/LinkedIn-Javier%20Muñoz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:Javier.mllanos96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Javier.mllanos96@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://javiermll.github.io/Portafolio/">
-    <img src="https://img.shields.io/badge/Portafolio-javiermll.github.io-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</p>
-
----
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Javiermll&color=2563EB&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Javiermll&color=10B981&style=for-the-badge&label=Profile+Views" />
 </p>
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:2563EB&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A5F,100:0F172A&height=120&section=footer" />
 </p>

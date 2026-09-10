@@ -1,0 +1,17 @@
+<svg width="400" height="40" viewBox="0 0 400 40" xmlns="http://www.w3.org/2000/svg" font-family="Verdana, Geneva, sans-serif">
+  <rect width="400" height="40" rx="20" fill="#0F172A"/>
+
+  <text x="20" y="21" font-size="16" dominant-baseline="central">🌎</text>
+  <text x="44" y="21" font-size="14" font-weight="700" fill="#ffffff" dominant-baseline="central">Remote LATAM</text>
+
+  <text x="168" y="21" font-size="14" fill="#7DD3FC" dominant-baseline="central">·</text>
+
+  <g transform="translate(182,13)">
+    <rect width="22" height="15" fill="#ffffff"/>
+    <rect width="22" height="7.5" y="7.5" fill="#D52B1E"/>
+    <rect width="9" height="7.5" fill="#0039A6"/>
+    <path d="M4.5 1.5 L5.3 3.9 L7.8 3.9 L5.75 5.4 L6.55 7.8 L4.5 6.3 L2.45 7.8 L3.25 5.4 L1.2 3.9 L3.7 3.9 Z" fill="#ffffff"/>
+  </g>
+
+  <text x="216" y="21" font-size="14" font-weight="700" fill="#ffffff" dominant-baseline="central">Remote &amp; Hybrid Chile</text>
+</svg>

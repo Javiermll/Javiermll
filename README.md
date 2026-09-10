@@ -4,15 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/open-to-work.svg" alt="●" /> &nbsp;<b>Open to Work</b>
-</p>
-
-<p align="center"><img src="assets/remote-badge.svg" height="28" alt="Remote LATAM · Remote &amp; Hybrid Chile" /></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Javier%20Mu%C3%B1oz%20Llanos&fontSize=34&fontColor=ffffff&fontAlignY=55#gh-dark-mode-only" alt="Javier Muñoz Llanos" /><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Javier%20Mu%C3%B1oz%20Llanos&fontSize=34&fontColor=0F172A&fontAlignY=55#gh-light-mode-only" alt="Javier Muñoz Llanos" /><br />
+  <img src="assets/open-to-work.svg" alt="●" /> &nbsp;<b>Open to Work</b><br /><br />
+  <img src="assets/remote-badge.svg" height="26" alt="Remote LATAM · Remote &amp; Hybrid Chile" /><br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Javier%20Mu%C3%B1oz%20Llanos&fontSize=34&fontColor=ffffff&fontAlignY=55#gh-dark-mode-only" alt="Javier Muñoz Llanos" /><img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Javier%20Mu%C3%B1oz%20Llanos&fontSize=34&fontColor=0F172A&fontAlignY=55#gh-light-mode-only" alt="Javier Muñoz Llanos" /><br />
   <img width="140" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=4" /><br />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Full-Stack%20Developer%20%E2%97%86%20Front-end%20%E2%97%86%20Back-end%20%E2%97%86%20IA%20Engineer&fontSize=16&fontColor=ffffff&fontAlignY=55#gh-dark-mode-only" alt="Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer" /><img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Full-Stack%20Developer%20%E2%97%86%20Front-end%20%E2%97%86%20Back-end%20%E2%97%86%20IA%20Engineer&fontSize=16&fontColor=334155&fontAlignY=55#gh-light-mode-only" alt="Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=26&text=Full-Stack%20Developer%20%E2%97%86%20Front-end%20%E2%97%86%20Back-end%20%E2%97%86%20IA%20Engineer&fontSize=16&fontColor=ffffff&fontAlignY=55#gh-dark-mode-only" alt="Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer" /><img src="https://capsule-render.vercel.app/api?type=transparent&height=26&text=Full-Stack%20Developer%20%E2%97%86%20Front-end%20%E2%97%86%20Back-end%20%E2%97%86%20IA%20Engineer&fontSize=16&fontColor=334155&fontAlignY=55#gh-light-mode-only" alt="Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer" />
 </p>
 
 <h3 align="center">Sobre mí</h3>
@@ -35,7 +31,9 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 <h3 align="center">Proyectos Destacados</h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
-<table border="1" cellpadding="10" cellspacing="0"><tr><td align="center">
+<table border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" valign="top" align="center">
 
 <h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3AD.svg" width="20" height="20" /> Colombia Canta y Encanta</h3>
 <p align="center">
@@ -47,9 +45,8 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
   <a href="https://github.com/DevColombiaEncanta/colombia-canta-encanta"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-</td></tr></table>
-
-<table border="1" cellpadding="10" cellspacing="0"><tr><td align="center">
+</td>
+<td width="50%" valign="top" align="center">
 
 <h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3DD.svg" width="20" height="20" /> Coco B Isla</h3>
 <p align="center">
@@ -60,9 +57,10 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
   <a href="https://github.com/coco-b-team/coco-b-platform"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-</td></tr></table>
-
-<table border="1" cellpadding="10" cellspacing="0"><tr><td align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
 <h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3D7.svg" width="20" height="20" /> Constructora Hidrorural</h3>
 <p align="center">
@@ -74,9 +72,8 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
   <a href="https://github.com/Javiermll/contructora-hidrorural-backend"><img src="https://img.shields.io/badge/Backend-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-</td></tr></table>
-
-<table border="1" cellpadding="10" cellspacing="0"><tr><td align="center">
+</td>
+<td width="50%" valign="top" align="center">
 
 <h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F310.svg" width="20" height="20" /> Around The U.S.</h3>
 <p align="center">
@@ -89,7 +86,9 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
   <a href="https://github.com/Javiermll/web_project_around_react"><img src="https://img.shields.io/badge/Repo_React-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-</td></tr></table>
+</td>
+</tr>
+</table>
 
 <h3 align="center">Stack Tecnológico</h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>

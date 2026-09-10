@@ -14,7 +14,7 @@
   <b>Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer</b>
 </p>
 
-<h3 align="center">Sobre mí</h3>
+<h3 align="center"><font color="#0EA5E9">Sobre mí</font></h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
 <table align="center"><tr><td width="640">
@@ -31,14 +31,14 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
   🏆 <b>1</b> hackathon ganado &nbsp;·&nbsp; 🚀 <b>4</b> proyectos destacados en producción &nbsp;·&nbsp; 💼 <b>~2</b> años liderando desarrollo full-stack
 </p>
 
-<h3 align="center">Proyectos Destacados</h3>
+<h3 align="center"><font color="#0EA5E9">Proyectos Destacados</font></h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
 <table border="1" cellpadding="10" cellspacing="0">
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3AD.svg" width="20" height="20" /> Colombia Canta y Encanta</h3>
+<h3 align="center"><font color="coral">Colombia Canta y Encanta</font></h3>
 <p align="center">
   Plataforma cultural con inscripciones, tienda y gestión de eventos para una asociación colombiana real, con pagos y autenticación multifactor.<br /><br />
   <img src="https://skillicons.dev/icons?i=react,nodejs,supabase" height="26" title="React · Node.js · Supabase (PostgreSQL)" />
@@ -51,7 +51,7 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 </td>
 <td width="50%" valign="top" align="center">
 
-<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3DD.svg" width="20" height="20" /> Coco B Isla</h3>
+<h3 align="center"><font color="coral">Coco B Isla</font></h3>
 <p align="center">
   Plataforma de reservas para resort/villa con CMS headless y chatbot con IA, construida en un hackathon competitivo. <b>Equipo ganador.</b><br /><br />
   <img src="https://skillicons.dev/icons?i=nextjs,ts,wordpress,docker" height="26" title="Next.js · TypeScript · WordPress headless · Docker" /><br /><br />
@@ -65,7 +65,7 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3D7.svg" width="20" height="20" /> Constructora Hidrorural</h3>
+<h3 align="center"><font color="coral">Constructora Hidrorural</font></h3>
 <p align="center">
   Plataforma web institucional para un cliente real de construcción, con endpoint de cotización y múltiples capas de seguridad en producción.<br /><br />
   <img src="https://skillicons.dev/icons?i=react,nodejs,express" height="26" title="React · Node.js · Express" /><br /><br />
@@ -78,7 +78,7 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 </td>
 <td width="50%" valign="top" align="center">
 
-<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F310.svg" width="20" height="20" /> Around The U.S.</h3>
+<h3 align="center"><font color="coral">Around The U.S.</font></h3>
 <p align="center">
   Red social full-stack con registro, login y sesión persistente vía JWT, con una migración adicional a React y Context API.<br /><br />
   <img src="https://skillicons.dev/icons?i=react,mongodb" height="26" title="React · MongoDB" />
@@ -93,7 +93,7 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 </tr>
 </table>
 
-<h3 align="center">Stack Tecnológico</h3>
+<h3 align="center"><font color="#0EA5E9">Stack Tecnológico</font></h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
 <p align="center">
@@ -106,28 +106,28 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 <div align="center">
 <br />
 
-<h4 align="center">Frontend</h4>
+<h4 align="center"><font color="coral">Frontend</font></h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind" title="HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Vite · Bootstrap · Tailwind CSS" />
 
-<h4 align="center">Backend</h4>
+<h4 align="center"><font color="coral">Backend</font></h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,wordpress" title="Node.js · Express · Python · Django · WordPress" />
 
-<h4 align="center">Bases de Datos</h4>
+<h4 align="center"><font color="coral">Bases de Datos</font></h4>
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" title="PostgreSQL · Supabase · MongoDB" />
 <img src="assets/logos/mssql-chip.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
 
-<h4 align="center">IA y Automatización</h4>
+<h4 align="center"><font color="coral">IA y Automatización</font></h4>
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
 <img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square&logoColor=white" alt="MCP" />
 <img src="https://img.shields.io/badge/RAG_%7C_Agentes-8B5CF6?style=flat-square&logoColor=white" alt="RAG" />
 
-<h4 align="center">Herramientas y Despliegue</h4>
+<h4 align="center"><font color="coral">Herramientas y Despliegue</font></h4>
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,gcp,jest,postman" title="Git · GitHub · Docker · Figma · Vercel · Google Cloud · Jest · Postman" />
 
 </div>
 </details>
 
-<h3 align="center">Contacto</h3>
+<h3 align="center"><font color="#0EA5E9">Contacto</font></h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
 <table align="center">

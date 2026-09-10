@@ -31,55 +31,58 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 <h3 align="center">Proyectos Destacados</h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
-<table border="1" cellpadding="16" cellspacing="0"><tr><td align="center">
+<table border="1" cellpadding="12" cellspacing="0"><tr><td align="center">
 
-<p align="center"><sub>01</sub></p>
-<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3AD.svg" width="24" style="vertical-align:middle" /> Colombia Canta y Encanta</h3>
-<p align="center"><img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /></p>
-<p align="center"><img src="assets/logos/colombia-canta.jpg" height="48" alt="Colombia Canta y Encanta" /></p>
+<h3 align="center"><sub>01</sub> &nbsp;<img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3AD.svg" width="24" height="24" /> Colombia Canta y Encanta</h3>
+<p align="center">
+  <img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /><br />
+  <img src="assets/logos/colombia-canta.jpg" height="40" alt="Colombia Canta y Encanta" />
+</p>
 <p align="center">Plataforma cultural con inscripciones, tienda y gestión de eventos para una asociación colombiana real, con pagos y autenticación multifactor.</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,supabase" height="32" title="React · Node.js · Supabase (PostgreSQL)" />
-  <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white" height="32" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,supabase" height="28" title="React · Node.js · Supabase (PostgreSQL)" />
+  <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white" height="28" />
 </p>
-<p align="center"><b>Impacto:</b> reemplazó un proceso 100% manual por WhatsApp por una operación digital autónoma con pagos reales.</p>
 <p align="center">
+  <b>Impacto:</b> reemplazó un proceso 100% manual por WhatsApp por una operación digital autónoma con pagos reales.<br />
   <a href="https://www.colombiacanta.org/"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/DevColombiaEncanta/colombia-canta-encanta"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </td></tr></table>
 
-<table border="1" cellpadding="16" cellspacing="0"><tr><td align="center">
+<table border="1" cellpadding="12" cellspacing="0"><tr><td align="center">
 
-<p align="center"><sub>02</sub></p>
-<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3DD.svg" width="24" style="vertical-align:middle" /> Coco B Isla</h3>
-<p align="center"><img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /></p>
-<p align="center"><img src="assets/logos/coco-b.png" height="48" alt="Coco B Isla" /></p>
+<h3 align="center"><sub>02</sub> &nbsp;<img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3DD.svg" width="24" height="24" /> Coco B Isla</h3>
+<p align="center">
+  <img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /><br />
+  <img src="assets/logos/coco-b.png" height="40" alt="Coco B Isla" />
+</p>
 <p align="center">Plataforma de reservas para resort/villa con CMS headless y chatbot con IA, construida en un hackathon competitivo. <b>Equipo ganador.</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,wordpress,docker" height="32" title="Next.js · TypeScript · WordPress headless · Docker" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,wordpress,docker" height="28" title="Next.js · TypeScript · WordPress headless · Docker" />
 </p>
-<p align="center"><b>Impacto:</b> sistema de reservas en tiempo real y chatbot con IA en producción, dentro del plazo del hackathon.</p>
 <p align="center">
+  <b>Impacto:</b> sistema de reservas en tiempo real y chatbot con IA en producción, dentro del plazo del hackathon.<br />
   <a href="https://coco-b-platform.vercel.app"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/coco-b-team/coco-b-platform"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </td></tr></table>
 
-<table border="1" cellpadding="16" cellspacing="0"><tr><td align="center">
+<table border="1" cellpadding="12" cellspacing="0"><tr><td align="center">
 
-<p align="center"><sub>03</sub></p>
-<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3D7.svg" width="24" style="vertical-align:middle" /> Constructora Hidrorural</h3>
-<p align="center"><img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /></p>
-<p align="center"><img src="assets/logos/hidrorural.png" height="48" alt="Constructora Hidrorural" /></p>
+<h3 align="center"><sub>03</sub> &nbsp;<img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3D7.svg" width="24" height="24" /> Constructora Hidrorural</h3>
+<p align="center">
+  <img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /><br />
+  <img src="assets/logos/hidrorural.png" height="40" alt="Constructora Hidrorural" />
+</p>
 <p align="center">Plataforma web institucional para un cliente real de construcción, con endpoint de cotización y múltiples capas de seguridad en producción.</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" height="32" title="React · Node.js · Express" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" height="28" title="React · Node.js · Express" />
 </p>
-<p align="center"><b>Impacto:</b> mejoró la visibilidad digital de la empresa en ~40%.</p>
 <p align="center">
+  <b>Impacto:</b> mejoró la visibilidad digital de la empresa en ~40%.<br />
   <a href="https://contructora-hidrorural-frontend.vercel.app"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/Javiermll/contructora-hidrorural-frontend"><img src="https://img.shields.io/badge/Frontend-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Javiermll/contructora-hidrorural-backend"><img src="https://img.shields.io/badge/Backend-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -87,18 +90,17 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 
 </td></tr></table>
 
-<table border="1" cellpadding="16" cellspacing="0"><tr><td align="center">
+<table border="1" cellpadding="12" cellspacing="0"><tr><td align="center">
 
-<p align="center"><sub>04</sub></p>
-<h3 align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F310.svg" width="24" style="vertical-align:middle" /> Around The U.S.</h3>
+<h3 align="center"><sub>04</sub> &nbsp;<img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F310.svg" width="24" height="24" /> Around The U.S.</h3>
 <p align="center"><img width="60" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3" /></p>
 <p align="center">Red social full-stack con registro, login y sesión persistente vía JWT, con una migración adicional a React y Context API.</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,mongodb" height="32" title="React · MongoDB" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="32" />
+  <img src="https://skillicons.dev/icons?i=react,mongodb" height="28" title="React · MongoDB" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28" />
 </p>
-<p align="center"><b>Impacto:</b> 10 endpoints REST funcionales, desplegada en producción.</p>
 <p align="center">
+  <b>Impacto:</b> 10 endpoints REST funcionales, desplegada en producción.<br />
   <a href="https://web-project-api-full-jade.vercel.app/"><img src="https://img.shields.io/badge/Demo_Full--Stack-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/Javiermll/web_project_api_full"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Javiermll/web_project_around_react"><img src="https://img.shields.io/badge/Repo_React-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>

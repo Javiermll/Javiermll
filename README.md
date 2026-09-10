@@ -5,10 +5,13 @@
 
 <p align="center">
   <img src="assets/open-to-work.svg" alt="●" /> &nbsp;<b>Open to Work</b><br /><br />
-  <img src="assets/remote-badge.svg" height="26" alt="Remote LATAM · Remote &amp; Hybrid Chile" /><br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Javier%20Mu%C3%B1oz%20Llanos&fontSize=34&fontColor=ffffff&fontAlignY=55#gh-dark-mode-only" alt="Javier Muñoz Llanos" /><img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Javier%20Mu%C3%B1oz%20Llanos&fontSize=34&fontColor=0F172A&fontAlignY=55#gh-light-mode-only" alt="Javier Muñoz Llanos" /><br />
+  <img src="assets/remote-badge.svg" height="26" alt="Remote LATAM · Remote &amp; Hybrid Chile" />
+</p>
+
+<h3 align="center">Javier Muñoz Llanos</h3>
+<p align="center">
   <img width="140" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=4" /><br />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=26&text=Full-Stack%20Developer%20%E2%97%86%20Front-end%20%E2%97%86%20Back-end%20%E2%97%86%20IA%20Engineer&fontSize=16&fontColor=ffffff&fontAlignY=55#gh-dark-mode-only" alt="Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer" /><img src="https://capsule-render.vercel.app/api?type=transparent&height=26&text=Full-Stack%20Developer%20%E2%97%86%20Front-end%20%E2%97%86%20Back-end%20%E2%97%86%20IA%20Engineer&fontSize=16&fontColor=334155&fontAlignY=55#gh-light-mode-only" alt="Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer" />
+  <b>Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer</b>
 </p>
 
 <h3 align="center">Sobre mí</h3>

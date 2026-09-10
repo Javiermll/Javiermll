@@ -44,7 +44,7 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
   <img src="https://skillicons.dev/icons?i=react,nodejs,supabase" height="26" title="React · Node.js · Supabase (PostgreSQL)" />
   <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white" height="26" /><br /><br />
   <b>Impacto:</b> reemplazó un proceso 100% manual por WhatsApp por una operación digital autónoma con pagos reales.<br />
-  <a href="https://www.colombiacanta.org/"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://colombia-canta-encanta.vercel.app/"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/DevColombiaEncanta/colombia-canta-encanta"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -107,14 +107,14 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 <br />
 
 <h4 align="center">Frontend</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind" title="HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Vite · Bootstrap · Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind" height="36" title="HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Vite · Bootstrap · Tailwind CSS" />
 
 <h4 align="center">Backend</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,py,django,wordpress" title="Node.js · Express · Python · Django · WordPress" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,django,wordpress" height="36" title="Node.js · Express · Python · Django · WordPress" />
 
 <h4 align="center">Bases de Datos</h4>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" title="PostgreSQL · Supabase · MongoDB" />
-<img src="assets/logos/mssql-chip.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" height="36" title="PostgreSQL · Supabase · MongoDB" />
+<img src="assets/logos/mssql-chip.svg" width="36" height="36" alt="SQL Server" title="SQL Server" />
 
 <h4 align="center">IA y Automatización</h4>
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
@@ -122,7 +122,7 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 <img src="https://img.shields.io/badge/RAG_%7C_Agentes-8B5CF6?style=flat-square&logoColor=white" alt="RAG" />
 
 <h4 align="center">Herramientas y Despliegue</h4>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,gcp,jest,postman" title="Git · GitHub · Docker · Figma · Vercel · Google Cloud · Jest · Postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,gcp,jest,postman" height="36" title="Git · GitHub · Docker · Figma · Vercel · Google Cloud · Jest · Postman" />
 
 </div>
 </details>

@@ -27,9 +27,16 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 
 <p align="center"><img width="140" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=4" /></p>
 
-<p align="center">
-  🏆 <b>1</b> hackathon ganado &nbsp;·&nbsp; 🚀 <b>4</b> proyectos destacados en producción &nbsp;·&nbsp; 💼 <b>~2</b> años liderando desarrollo full-stack
-</p>
+<table border="1" cellpadding="16" cellspacing="0" align="center">
+  <tr>
+    <td width="50%" align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3C6.svg" width="28" height="28" /><br /><b>1</b> hackathon ganado</td>
+    <td width="50%" align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F680.svg" width="28" height="28" /><br /><b>4</b> proyectos destacados en producción</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F4BC.svg" width="28" height="28" /><br /><b>~2</b> años liderando desarrollo full-stack</td>
+    <td width="50%" align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F4DA.svg" width="28" height="28" /><br />Aprendiendo y sumando conocimientos cada día</td>
+  </tr>
+</table>
 
 <h3 align="center">Proyectos Destacados</h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>

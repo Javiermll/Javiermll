@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/open-to-work.svg" alt="●" /> &nbsp;<b>Open to Work</b>
-</p>
-
-<p align="center">
   <img width="100%" src="assets/hero-banner.svg" alt="Javier Muñoz Llanos, Full-Stack Developer" />
 </p>
 

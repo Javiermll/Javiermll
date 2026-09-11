@@ -4,41 +4,69 @@
 </p>
 
 <p align="center">
-  <img src="assets/open-to-work.svg" alt="●" /> &nbsp;<b>Open to Work</b><br /><br />
-  <img src="assets/remote-badge.svg" height="26" alt="Remote LATAM · Remote &amp; Hybrid Chile" />
+  <img src="assets/open-to-work.svg" alt="●" /> &nbsp;<b>Open to Work</b>
 </p>
 
-<h3 align="center">Javier Muñoz Llanos</h3>
 <p align="center">
-  <img width="140" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=4" /><br />
-  <b>Full-Stack Developer ◆ Front-end ◆ Back-end ◆ IA Engineer</b>
+  <img width="100%" src="assets/hero-banner.svg" alt="Javier Muñoz Llanos, Full-Stack Developer" />
 </p>
 
-<h3 align="center">Sobre mí</h3>
+<h3 align="center">About Me</h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
 <table align="center"><tr><td width="640">
 
-Full-Stack Developer con casi 2 años de experiencia liderando proyectos de principio a fin **en producción**, con React, Node.js y bases de datos SQL/NoSQL (PostgreSQL, MongoDB). Tomo decisiones de arquitectura de forma autónoma y aprendo rápido entre stacks distintos cuando el proyecto lo exige.
-
-He trabajado en sectores asociados a la construcción, consultoría y cultura. He tenido buenas experiencias trabajando con stakeholders técnicos como no técnicos, traduciendo ambigüedad de negocio en decisiones técnicas concretas. Me interesa especialmente el cruce entre **desarrollo web e inteligencia artificial**.
+- 👋 2 years building software. Always end-to-end and **in production**
+- 🧩 Fast learner, resourceful, communicative, and motivated
+- 🏗️ Experience working with stakeholders from construction, culture, and consulting, both technical and non-technical
+- 🤖 Right now what excites me most is mixing **web development with AI**
 
 </td></tr></table>
 
 <p align="center"><img width="140" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=4" /></p>
 
-<table border="1" cellpadding="16" cellspacing="0" align="center">
-  <tr>
-    <td width="50%" align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F3C6.svg" width="28" height="28" /><br /><b>1</b> hackathon ganado</td>
-    <td width="50%" align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F680.svg" width="28" height="28" /><br /><b>4</b> proyectos destacados en producción</td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F4BC.svg" width="28" height="28" /><br /><b>~2</b> años liderando desarrollo full-stack</td>
-    <td width="50%" align="center"><img src="https://cdn.jsdelivr.net/npm/openmoji@14.0.0/color/svg/1F4DA.svg" width="28" height="28" /><br />Aprendiendo y sumando conocimientos cada día</td>
-  </tr>
-</table>
+<h4 align="center">Experiences Worth Remembering</h4>
 
-<h3 align="center">Proyectos Destacados</h3>
+<table align="center"><tr><td width="640">
+
+- 🏆 Won a hackathon with **Coco B Isla** (TripleTen, August 2026)
+- 🎨 **Colombia Canta y Encanta**, my first custom-built software (2026)
+- 🤝 **Hidrorural**, the first client who trusted me
+- 📈 More knowledge will bring more experience
+
+</td></tr></table>
+
+<h3 align="center">Tech Stack</h3>
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
+
+<details align="center">
+<summary><b>View full stack</b></summary>
+
+<div align="center">
+<br />
+
+<p align="center"><b>Frontend:</b><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind" height="36" title="HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Vite · Bootstrap · Tailwind CSS" /></p>
+
+<p align="center"><b>Backend:</b><br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,django,wordpress" height="36" title="Node.js · Express · Python · Django · WordPress" /></p>
+
+<p align="center"><b>Databases:</b><br />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" height="36" title="PostgreSQL · Supabase · MongoDB" />
+<img src="assets/logos/mssql-chip.svg" width="36" height="36" alt="SQL Server" title="SQL Server" /></p>
+
+<p align="center"><b>AI &amp; Automation:</b><br />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+<img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/RAG_%7C_Agents-8B5CF6?style=flat-square&logoColor=white" alt="RAG" /></p>
+
+<p align="center"><b>Tools &amp; Deployment:</b><br />
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,gcp,jest,postman" height="36" title="Git · GitHub · Docker · Figma · Vercel · Google Cloud · Jest · Postman" /></p>
+
+</div>
+</details>
+
+<h3 align="center">Featured Projects</h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
 <table border="1" cellpadding="10" cellspacing="0">
@@ -46,11 +74,12 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 <td width="50%" valign="top" align="center">
 
 <h3 align="center">Colombia Canta y Encanta</h3>
+<p align="center"><img width="100%" src="assets/screenshots/colombia-canta.jpg" alt="Colombia Canta y Encanta" /></p>
 <p align="center">
-  Plataforma cultural con inscripciones, tienda y gestión de eventos para una asociación colombiana real, con pagos y autenticación multifactor.<br /><br />
+  Cultural platform with event registration, an online store, and event management for a real Colombian association, with payments and multi-factor authentication.<br /><br />
   <img src="https://skillicons.dev/icons?i=react,nodejs,supabase" height="26" title="React · Node.js · Supabase (PostgreSQL)" />
   <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white" height="26" /><br /><br />
-  <b>Impacto:</b> reemplazó un proceso 100% manual por WhatsApp por una operación digital autónoma con pagos reales.<br />
+  <b>Impact:</b> replaced a 100% manual WhatsApp process with a self-service digital operation with real payments.<br />
   <a href="https://colombia-canta-encanta.vercel.app/"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/DevColombiaEncanta/colombia-canta-encanta"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -59,10 +88,11 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 <td width="50%" valign="top" align="center">
 
 <h3 align="center">Coco B Isla</h3>
+<p align="center"><img width="100%" src="assets/screenshots/coco-b-isla.jpg" alt="Coco B Isla" /></p>
 <p align="center">
-  Plataforma de reservas para resort/villa con CMS headless y chatbot con IA, construida en un hackathon competitivo. <b>Equipo ganador.</b><br /><br />
+  Booking platform for a resort/villa with a headless CMS and an AI chatbot, built during a competitive hackathon. <b>Winning team.</b><br /><br />
   <img src="https://skillicons.dev/icons?i=nextjs,ts,wordpress,docker" height="26" title="Next.js · TypeScript · WordPress headless · Docker" /><br /><br />
-  <b>Impacto:</b> sistema de reservas en tiempo real y chatbot con IA en producción, dentro del plazo del hackathon.<br />
+  <b>Impact:</b> real-time booking system and AI chatbot in production, delivered within the hackathon deadline.<br />
   <a href="https://coco-b-platform.vercel.app"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/coco-b-team/coco-b-platform"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -73,10 +103,11 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 <td width="50%" valign="top" align="center">
 
 <h3 align="center">Constructora Hidrorural</h3>
+<p align="center"><img width="100%" src="assets/screenshots/hidrorural.jpg" alt="Constructora Hidrorural" /></p>
 <p align="center">
-  Plataforma web institucional para un cliente real de construcción, con endpoint de cotización y múltiples capas de seguridad en producción.<br /><br />
+  Institutional website for a real construction client, with a quote-request endpoint and multiple security layers in production.<br /><br />
   <img src="https://skillicons.dev/icons?i=react,nodejs,express" height="26" title="React · Node.js · Express" /><br /><br />
-  <b>Impacto:</b> mejoró la visibilidad digital de la empresa en ~40%.<br />
+  <b>Impact:</b> improved the company's digital visibility by ~40%.<br />
   <a href="https://contructora-hidrorural-frontend.vercel.app"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/Javiermll/contructora-hidrorural-frontend"><img src="https://img.shields.io/badge/Frontend-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Javiermll/contructora-hidrorural-backend"><img src="https://img.shields.io/badge/Backend-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -86,11 +117,12 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 <td width="50%" valign="top" align="center">
 
 <h3 align="center">Around The U.S.</h3>
+<p align="center"><img width="100%" src="assets/screenshots/around-the-us.jpg" alt="Around The U.S." /></p>
 <p align="center">
-  Red social full-stack con registro, login y sesión persistente vía JWT, con una migración adicional a React y Context API.<br /><br />
+  Full-stack social network with registration, login, and persistent session via JWT, with an additional migration to React and Context API.<br /><br />
   <img src="https://skillicons.dev/icons?i=react,mongodb" height="26" title="React · MongoDB" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="26" /><br /><br />
-  <b>Impacto:</b> 10 endpoints REST funcionales, desplegada en producción.<br />
+  <b>Impact:</b> 10 working REST endpoints, deployed to production.<br />
   <a href="https://web-project-api-full-jade.vercel.app/"><img src="https://img.shields.io/badge/Demo_Full--Stack-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/Javiermll/web_project_api_full"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Javiermll/web_project_around_react"><img src="https://img.shields.io/badge/Repo_React-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -100,41 +132,7 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 </tr>
 </table>
 
-<h3 align="center">Stack Tecnológico</h3>
-<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,mongodb" title="Core: React · Next.js · TypeScript · Node.js · PostgreSQL · MongoDB" />
-</p>
-
-<details align="center">
-<summary><b>Ver stack completo</b></summary>
-
-<div align="center">
-<br />
-
-<h4 align="center">Frontend</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind" height="36" title="HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Vite · Bootstrap · Tailwind CSS" />
-
-<h4 align="center">Backend</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,py,django,wordpress" height="36" title="Node.js · Express · Python · Django · WordPress" />
-
-<h4 align="center">Bases de Datos</h4>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" height="36" title="PostgreSQL · Supabase · MongoDB" />
-<img src="assets/logos/mssql-chip.svg" width="36" height="36" alt="SQL Server" title="SQL Server" />
-
-<h4 align="center">IA y Automatización</h4>
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-<img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square&logoColor=white" alt="MCP" />
-<img src="https://img.shields.io/badge/RAG_%7C_Agentes-8B5CF6?style=flat-square&logoColor=white" alt="RAG" />
-
-<h4 align="center">Herramientas y Despliegue</h4>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,gcp,jest,postman" height="36" title="Git · GitHub · Docker · Figma · Vercel · Google Cloud · Jest · Postman" />
-
-</div>
-</details>
-
-<h3 align="center">Contacto</h3>
+<h3 align="center">Contact</h3>
 <p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=3" /></p>
 
 <table align="center">
@@ -144,8 +142,8 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
       <b>LinkedIn</b>
     </td>
     <td align="center">
-      <a href="https://javiermll.github.io/Portafolio/"><img src="assets/chips/portfolio-chip.svg" width="56" height="56" alt="Portafolio" /></a><br />
-      <b>Portafolio</b>
+      <a href="https://javiermll.github.io/Portafolio/"><img src="assets/chips/portfolio-chip.svg" width="56" height="56" alt="Portfolio" /></a><br />
+      <b>Portfolio</b>
     </td>
     <td align="center">
       <a href="mailto:Javier.munozll96@gmail.com"><img src="assets/chips/gmail-chip.svg" width="56" height="56" alt="Email" /></a><br />
@@ -156,7 +154,7 @@ He trabajado en sectores asociados a la construcción, consultoría y cultura. H
 
 <!-- CTA -->
 <p align="center">
-  <img src="https://img.shields.io/badge/¿Construimos_algo_juntos%3F-0EA5E9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Let%27s_Build_Something_Together%3F-0EA5E9?style=for-the-badge&logoColor=white" />
 </p>
 
 <!-- VISITOR COUNTER -->

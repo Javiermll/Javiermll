@@ -126,6 +126,30 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<h3 align="center">Alke Wallet</h3>
+<p align="center"><img width="100%" src="assets/screenshots/alke-wallet.jpg" alt="Alke Wallet" /></p>
+<p align="center">
+  Digital wallet built with Django: accounts, transfers, role-based access, and reports, with staff and client roles.<br /><br />
+  <img src="https://skillicons.dev/icons?i=py,django,bootstrap,postgres" height="26" title="Python · Django · Bootstrap · PostgreSQL" /><br /><br />
+  <b>Impact:</b> reproducible deployment with automated migrations, admin setup, and demo data seeding, all from environment variables.<br />
+  <a href="https://alke-wallet.onrender.com"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/Javiermll/alke-wallet-django"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+<h3 align="center">Got a New Project?</h3>
+<p align="center">
+  Let's build something great together.<br /><br />
+  <a href="mailto:Javier.munozll96@gmail.com"><img src="https://img.shields.io/badge/Let%27s_Talk-0EA5E9?style=for-the-badge&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
 </table>
 
 <h3 align="center">Contact</h3>
